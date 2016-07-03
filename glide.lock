@@ -1,0 +1,6 @@
+hash: 27ff556c36a4e843639a2f9a57f899f4def54ae06f1a84c48e3d9ccfffd0e60d
+updated: 2016-07-03T14:50:49.951888453+02:00
+imports:
+- name: github.com/hybridgroup/gobot
+  version: 89da45f4931b1474ee8199b8a3580deb7c52ac08
+devImports: []

@@ -1,0 +1,10 @@
+[Unit]
+Description=edison_gbp_to_eur
+
+[Service]
+ExecStart=/home/root/edison_gbp_to_eur
+Restart=always
+RestartSec=1s
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,4 @@
+package: github.com/agonzalezro/edison_gbp_to_eur
+import:
+- package: github.com/hybridgroup/gobot
+  version: ^0.11.0
